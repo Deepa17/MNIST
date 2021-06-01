@@ -1,6 +1,7 @@
-# MNIST
-A beginners project to understand CNNs.
-This project contains a CNN built using tensorflow that is used to identify the handwritten digits of MNIST dataset.
-The gui part (done using tkinter) was taken from the given reference.
-https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/
-Run the ipynb notebook before running the handwritten_digits.py file
+<h3># MNIST </h3>
+<p>
+A beginners project to understand CNNs. <br>
+This project contains a CNN built using tensorflow that is used to identify the handwritten digits of MNIST dataset. <br>
+The application identifies handwritten digits on the Tkinter Canvas. <br>
+Run the ipynb notebook before running the handwritten_digits.py file to obtain the saved model. <br>
+</p>
