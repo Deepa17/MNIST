@@ -1,4 +1,4 @@
-<h3># MNIST </h3>
+<h3> MNIST </h3>
 <p>
 A beginners project to understand CNNs. <br>
 This project contains a CNN built using tensorflow that is used to identify the handwritten digits of MNIST dataset. <br>
